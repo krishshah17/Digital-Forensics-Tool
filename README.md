@@ -69,6 +69,6 @@ localhost:8501
 ### Generate Report
 <img width="1512" alt="Screenshot 2024-04-20 at 3 13 59 PM" src="https://github.com/krishshah17/Digital-Forensics-Tool/assets/26605210/440ba95a-5622-4d47-9107-0cfdc4410d3d">
 
-An example report can be found here
+An example report is included for Case 3
 
 
